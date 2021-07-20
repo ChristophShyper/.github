@@ -1,15 +1,27 @@
-### Brief description:
-
+## :memo:  Brief description
 
 <!-- Write you description here -->
 
+<!-- Diff summary - START -->
+<!-- Diff summary - END -->
 
-### Checklist
+
+## :computer:  Commits
+<!-- Diff commits - START -->
+<!-- Diff commits - END -->
+
+
+## :file_folder:  Modified files
+<!-- Diff files - START -->
+<!-- Diff files - END -->
+
+
+## :warning: Additional information
+* [ ] Pushed to a branch with a proper name and provided proper commit message.
 * [ ] Provided a clear and concise description of what the issue is.
-* [ ] Given a clear and concise description of what is expected.
-* [ ] Proposed a clear and concise description of any alternative solutions or other features.
-* [ ] Added any other context or screenshots about the feature request.
-* [ ] Associated issue has been already created and link was provided.
 
 
-*Check [CONTRIBUTING.md](https://github.com/devops-infra/.github/blob/master/CONTRIBUTING.md) for more information*
+*Check [CONTRIBUTING.md][contributing] and [CODE_OF_CONDUCT.md][code] for more information*
+
+[contributing]: https://github.com/ChristophShyper/.github/blob/master/CONTRIBUTING.md
+[code]: https://github.com/ChristophShyper/.github/blob/master/CODE_OF_CONDUCT.md

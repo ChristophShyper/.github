@@ -6,13 +6,13 @@ labels: 'bugfix'
 assignees: 'ChristophShyper'
 
 ---
-### Brief description
+## :memo:  Brief description
 
 
 <!-- Write you description here -->
 
 
-### Checklist
+## :warning: Checklist
 * [ ] Provided a clear and concise description of what the bug is.
 * [ ] Given a clear and concise description of what was expected to happen.
 * [ ] Provided an information how to reproduce the error.
@@ -21,4 +21,7 @@ assignees: 'ChristophShyper'
 * [ ] Associated pull request has been already created and link was provided.
 
 
-*Check [CONTRIBUTING.md](https://github.com/devops-infra/.github/blob/master/CONTRIBUTING.md) for more information*
+*Check [CONTRIBUTING.md][contributing] and [CODE_OF_CONDUCT.md][code] for more information*
+
+[contributing]: https://github.com/ChristophShyper/.github/blob/master/CONTRIBUTING.md
+[code]: https://github.com/ChristophShyper/.github/blob/master/CODE_OF_CONDUCT.md

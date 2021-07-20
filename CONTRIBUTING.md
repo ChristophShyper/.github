@@ -6,8 +6,10 @@ Rules for contribution are very simple.
 
 ### Branching
 * Bug fixes should be pushed to branches starting with `bugfix/...`.
-* New features should be pushed to branches starting with `feature/...`.
+* Updates of dependent packages should be pushed to branches starting with `dependency/...`.
 * Updates to documentation should be pushed to branches starting with `documentation/...`.
+* New features should be pushed to branches starting with `feature/...`.
+* For testing linting, build process, etc. with opening draft PR use branches starting with `test/...`.
 * If the changes apply to more than one category any other name best fitting should be used.
 
 
@@ -35,4 +37,4 @@ Rules for contribution are very simple.
 * [Issues](../../issues)
 * [Pull Requests](../../pulls)
 * [README](./README.md)
-* [Code of Conduct](https://github.com/devops-infra/.github/blob/master/CODE_OF_CONDUCT.md)
+* [Code of Conduct](https://github.com/ChristophShyper/.github/blob/master/CODE_OF_CONDUCT.md)
